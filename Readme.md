@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript/10/user/484243).
+* Студент: [Исламов Артем](https://up.htmlacademy.ru/javascript/10/user/484243).
 
 ---
 
